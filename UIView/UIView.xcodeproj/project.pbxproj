@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6117108F2292A2A100361B7F /* CreatingViewObjectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6117108E2292A2A100361B7F /* CreatingViewObjectViewController.swift */; };
+		611710912292A77500361B7F /* ContentModeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 611710902292A77500361B7F /* ContentModeViewController.swift */; };
 		61BBCE69228E7B1900C24C87 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61BBCE68228E7B1900C24C87 /* AppDelegate.swift */; };
 		61BBCE6B228E7B1900C24C87 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61BBCE6A228E7B1900C24C87 /* ViewController.swift */; };
 		61BBCE6E228E7B1900C24C87 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61BBCE6C228E7B1900C24C87 /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6117108E2292A2A100361B7F /* CreatingViewObjectViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatingViewObjectViewController.swift; sourceTree = "<group>"; };
+		611710902292A77500361B7F /* ContentModeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentModeViewController.swift; sourceTree = "<group>"; };
 		61BBCE65228E7B1900C24C87 /* UIView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		61BBCE68228E7B1900C24C87 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		61BBCE6A228E7B1900C24C87 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +64,8 @@
 				61BBCE6F228E7B1A00C24C87 /* Assets.xcassets */,
 				61BBCE71228E7B1A00C24C87 /* LaunchScreen.storyboard */,
 				61BBCE74228E7B1A00C24C87 /* Info.plist */,
+				6117108E2292A2A100361B7F /* CreatingViewObjectViewController.swift */,
+				611710902292A77500361B7F /* ContentModeViewController.swift */,
 			);
 			path = UIView;
 			sourceTree = "<group>";
@@ -135,6 +141,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6117108F2292A2A100361B7F /* CreatingViewObjectViewController.swift in Sources */,
+				611710912292A77500361B7F /* ContentModeViewController.swift in Sources */,
 				61BBCE6B228E7B1900C24C87 /* ViewController.swift in Sources */,
 				61BBCE69228E7B1900C24C87 /* AppDelegate.swift in Sources */,
 			);
